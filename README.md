@@ -1,6 +1,6 @@
-# Hi, I'm Jack 👋
+Hello! 👋
 
-I’m an advocate and practitioner of free, open‑source software.
+I'm an advocate of free, open‑source software with interests in decentralisation, federation, local‑first design, privacy and security, amongst other things.
 
 Find me elsewhere:
 
