@@ -1,6 +1,6 @@
 Hello! 👋
 
-I'm an advocate of free, open‑source software with interests in decentralisation, federation, local‑first design, privacy and security, amongst other things.
+I’m an advocate of, amongst other things, free, open-source software, along with interests in decentralisation, federation, local-first design, privacy, security, and more.
 
 **Please note**, GitHub is not the forge where I craft my creations. Instead, I use other platforms, such as GitLab, as the home for my projects. I maintain a GitHub account solely to contribute to projects that consider it their home.
 
